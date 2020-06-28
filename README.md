@@ -4,6 +4,8 @@ https://fullstackopen.com/en/
 
 ### Online curriculum for learning modern Javascript-based web development. Primarily used MERN stack (MongoDB, Express, React, NodeJS) to build web apps
 
+### Parts 1-3: Building note application using MERN stack with local JSON database and MongoDB clusters
+
 ### Parts 4-5: covered writing and running tests with Jest (Backend integration, Unit testing) plus End-to-end testing with Cypress
 
 ### Part 6: State management with Redux
