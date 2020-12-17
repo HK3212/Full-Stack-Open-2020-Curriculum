@@ -14,6 +14,9 @@ part9/9b/node_modules
 part9/flight-diaries/node_modules
 part9/my-app/node_modules
 part9/patientor/node_modules
+rate-repository-app/node_modules
+rate-repository-app/.expo
+rate-repository-app/.expo-shared
 /.pnp
 .pnp.js
 
@@ -26,6 +29,7 @@ part2-5/frontend/build
 part2-5/backend/build
 part7/webpack/build
 part9/flight-diaries/build
+rate-repository-app/build
 
 # misc
 .DS_Store
